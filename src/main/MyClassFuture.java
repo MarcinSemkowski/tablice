@@ -7,6 +7,8 @@ public class MyClassFuture {
 
       String text = "TEST";
 
+      int w = 12;
+
     }
 
 
