@@ -5,7 +5,7 @@ public class MyClassFuture {
 
     public static void main(String[] args) {
 
-      String text = "TEST";
+      String text = "efaagf";
 
       int w = 12;
 
